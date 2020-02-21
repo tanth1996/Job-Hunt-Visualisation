@@ -1,6 +1,13 @@
 # Job-Hunt-Visualisation
 ## Personal project to take a look at how my job hunt from Dec 2019 - Feb 2020 as a fresh graduate went down
 
+### Here's the data
+![Timeline of Job Applications](https://github.com/tanth1996/Job-Hunt-Visualisation/blob/master/Data%20visualisations/Timeline%20of%20Job%20Applications.png "Timeline of Job Applications")
+
+![Breakdown of Job Application Outcomes](https://github.com/tanth1996/Job-Hunt-Visualisation/blob/master/Data%20visualisations/Breakdown%20of%20Job%20Application%20Outcomes.png "Breakdown of Job Application Outcomes")
+
+![Breakdown of Recruitment Methods Encountered](https://github.com/tanth1996/Job-Hunt-Visualisation/blob/master/Data%20visualisations/Breakdown%20of%20Recruitment%20Methods%20Encountered.png "Breakdown of Recruitment Methods Encountered")
+
 ### Take-aways from job-hunting as a fresh graduate:
 1. Patience is key and the (heavily biased) data spells it out - a successful job application can easily take up to 2 months if not more (excluding preparation prior to sending out applications), and most of that time will be spent waiting.
 2. Waiting isn't all that bad... okay it can get pretty bad but there's no shortage of ways to improve or enrich yourself within that time (like turning your job hunt into a data exploration project).
